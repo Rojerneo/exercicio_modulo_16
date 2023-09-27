@@ -1,0 +1,11 @@
+@use 'variaveis';
+
+body {
+    background-color: variaveis.$corDeFundo;
+}
+
+header {
+    background-color: variaveis.$corPrimaria;
+    color: variaveis.$corTitulos;
+    padding: 8px;
+}

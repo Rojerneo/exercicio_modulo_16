@@ -1,0 +1,1 @@
+const f=function(ಠ_ಠ444,ಠ_ಠ445){return ಠ_ಠ444+ಠ_ಠ445},f1=(console.log(f(10,5)),function(...ಠ_ಠ444){let ಠ_ಠ445=0,f=0;for(ಠ_ಠ445 of ಠ_ಠ444)f+=ಠ_ಠ445;return f});console.log(f1(20,5,6,9));
